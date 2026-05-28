@@ -16,7 +16,7 @@ int main() {
 
 
 
-    int r = num1 + num2;
+    int r = num1 - num2;
 
     std::cout << r << std::endl;
 
